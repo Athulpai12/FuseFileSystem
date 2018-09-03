@@ -3,7 +3,7 @@ After make:
 
 Run the program as:
 
-./ramdisk <dirname> <filesize>  [<filenameforpersistence>]
+./File_system <dirname> <filesize>  [<filenameforpersistence>]
 
 
 Notes:
